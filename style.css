@@ -1,0 +1,70 @@
+
+h2{
+    font-size: 20px;
+}
+
+ 
+.info{
+    position: absolute;
+    left: 600px;
+    top: 140px;
+}
+
+img{
+    width: 240px;
+    height: 340px;
+}
+
+.img{
+    width: 250px;
+    height: 350px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    border: 5px rgb(236, 236, 236) solid;
+}
+
+.cont{
+    position: relative;
+}
+
+header{
+    position: relative;
+    background: rgb(48, 48, 48);
+    
+}
+
+.nav{
+    position: absolute;
+    left: 1000px;
+}
+
+a{
+    margin: 10px;
+    opacity: 0.7;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    opacity: 1;
+    border-bottom: 2px white solid;    
+}
+
+a:active{
+    color: brown;
+}
+
+
+article{
+    width: 1200px;
+    text-align: justify;
+    margin-left: 80px;
+    margin-top: 20px;
+    line-height: 25px;
+    
+}
+
+body{
+    background: rgb(219, 218, 218);
+}
